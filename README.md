@@ -22,7 +22,7 @@ npm run dev
 ```
 
 # (For developers) Setting up the server-side environment:
-Move into the server folder:
+In a separate terminal, move back into your project folder, then into the server folder:
 ```powershell
 cd your-project-name/server
 ```
