@@ -1,5 +1,9 @@
 # OpenAI DALL-E 2 Web Application Clone
 
+I created this clone using the following YouTube tutorial by Adrian Hajdin: https://www.youtube.com/watch?v=EyIvuigqDoA&t=7180s.
+The assets were downloaded from https://drive.google.com/file/d/12ZCrmvvqrI2KONvpm1fWpf2pKkGlgIpE/view and other required components
+of the code from https://gist.github.com/adrianhajdin/b2264e1f443a0003d6947549b9e07ec5.
+
 This clone of OpenAI's DALL-E 2 application will allow you to create stunning pieces of digital art using your imagination.
 
 Users can run the application on a localhost server on their computer by following the instructions below:
